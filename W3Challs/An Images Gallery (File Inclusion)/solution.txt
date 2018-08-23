@@ -1,0 +1,5 @@
+run burpsuite
+upload the file fi.php.jpeg
+in burpsuite change the file name to fi.php
+go the following link: http://gallery.hacking.w3challs.com/suggestions/fi.php?cmd=ls 
+the contents of the directory should be show and now you should be able to run shell commands by replacing ls
